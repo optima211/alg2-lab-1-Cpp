@@ -1,0 +1,3 @@
+C:/Users/nedmk/CLionProjects/ alg2-lab-1-Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nedmk/CLionProjects/ alg2-lab-1-Cpp/cmake-build-debug/CMakeFiles/_alg2_lab_1_Cpp.dir
+C:/Users/nedmk/CLionProjects/ alg2-lab-1-Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
